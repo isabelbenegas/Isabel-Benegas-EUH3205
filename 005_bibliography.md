@@ -49,3 +49,5 @@ Yates, David. “Entrepreneurial Philanthropy at Cromford, Quarry Bank, and Salt
 ## Secondary Sources
 
 History.com Editors. “Socialism.” *HISTORY.* A&E Television Networks. Last updated October 17, 2019. Originally published October 10, 2019. https://www.history.com/topics/industrial-revolution/socialism.
+
+The Editors of Encyclopaedia Britannica. "Child Labour." *Encyclopaedia Britannica.* Last updated November 24, 2024. https://www.britannica.com/topic/child-labour.
