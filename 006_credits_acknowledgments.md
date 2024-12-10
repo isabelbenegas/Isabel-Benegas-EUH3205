@@ -25,4 +25,3 @@ Sarah Eisenberg
 
 A huge thank you to Professor Goodwin for teaching us the skills and giving us the tools to make this website possible. Your guidance and support have been a big help throughout this project, and we’re super grateful for everything we’ve learned!
 
----
