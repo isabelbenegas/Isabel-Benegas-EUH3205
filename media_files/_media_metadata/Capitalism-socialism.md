@@ -3,7 +3,7 @@
 name: Capitalismsocialism
 media_type: video
 
-_title: Capitalism and Socialism: Crash Course World History
+_title: Capitalism and Socialism: Course World History
 description: John Green teaches you about capitalism and socialism
 creator: History Matters
 _date: 2012
