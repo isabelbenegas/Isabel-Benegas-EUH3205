@@ -49,14 +49,3 @@ Rowcroft, Andrew. *Karl Marx.* Newgen Publishing UK, 2021. https://www.taylorfra
 Yates, David. “Entrepreneurial Philanthropy at Cromford, Quarry Bank, and Saltaire Mills during the Industrial Revolution.” *The Historical Journal* 67, no. 3 (2024): 463–92. https://doi.org/10.1017/s0018246x24000141.  
 
 History.com Editors. “Socialism.” *HISTORY*, A&E Television Networks, last updated October 17, 2019, originally published October 10, 2019. https://www.history.com/topics/industrial-revolution/socialism.  
-
-# Credits and Acknowledgments
-
-Isabel Benegas – Webmaster and Introduction  
-Gemma Egan – The Industrial Revolution  
-Lilli Paul – Socialist and Communist Ideologies  
-Peter Kramer – The Rise in Socialism and Communism’s Popularity, People's Reaction to These Ideas, and Their Impact on Europe  
-Sarah Eisenberg – Timeline and Conclusion  
-
-A huge thank you to Professor Professor Goodwin for teaching us the skills and giving us the tools to make this website possible. Your guidance and support have been a big help throughout this project, and we’re super grateful for everything we’ve learned!
-
