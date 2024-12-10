@@ -48,4 +48,4 @@ Yates, David. “Entrepreneurial Philanthropy at Cromford, Quarry Bank, and Salt
 
 ## Secondary Sources
 
-You should have at least 5 secondary sources.
+History.com Editors. “Socialism.” *HISTORY.* A&E Television Networks. Last updated October 17, 2019. Originally published October 10, 2019. https://www.history.com/topics/industrial-revolution/socialism.
