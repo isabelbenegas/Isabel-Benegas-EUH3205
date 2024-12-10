@@ -60,8 +60,8 @@ In Germany, socialist and communist sentiment was also brewing. The 1875 Gotha P
 [^4]: Yates, David. 2024. “Entrepreneurial Philanthropy at Cromford, Quarry Bank, and Saltaire Mills during the Industrial Revolution.” The Historical Journal 67 (3): 463–92. https://doi.org/10.1017/s0018246x24000141.
 [^5] Nardinelli, Clark. 2018. “Industrial Revolution and the Standard of Living.” Econlib. 2018. https://www.econlib.org/library/Enc/IndustrialRevolutionandtheStandardofLiving.html. 
 [^6]: Dicey, Albert Venn. 1905. Lectures on the Relation between Law & Public Opinion in England during the Nineteenth Century. The Harvard Law Review Association.
-[^7] G.R.S. Taylor, Leaders of Socialism Past and Present (Duffield and Company, 1910), 28-29, https://babel.hathitrust.org/cgi/pt?id=uc1.$b292072&seq=33.
-[^8] Taylor, Leaders of Socialism Past and Present, 32, https://babel.hathitrust.org/cgi/pt?id=uc1.$b292072&seq=33.
+[^7]: G.R.S. Taylor, Leaders of Socialism Past and Present (Duffield and Company, 1910), 28-29, https://babel.hathitrust.org/cgi/pt?id=uc1.$b292072&seq=33.
+[^8]: Taylor, Leaders of Socialism Past and Present, 32, https://babel.hathitrust.org/cgi/pt?id=uc1.$b292072&seq=33.
 [^9]: Friedrich Engels, Socialism, Utopian and Scientific (New York Labor News Company, 1901), 7-8, https://babel.hathitrust.org/cgi/pt?id=uc1.b003005567&seq=51&q1=utopian.
 [^10]: Taylor, Leaders of Socialism Past and Present, 19-26, https://babel.hathitrust.org/cgi/pt?id=uc1.$b292072&seq=33.
 [^11]: Taylor, Leaders of Socialism Past and Present, 19-26, https://babel.hathitrust.org/cgi/pt?id=uc1.$b292072&seq=33.
@@ -85,5 +85,5 @@ In Germany, socialist and communist sentiment was also brewing. The 1875 Gotha P
 [^29]: Castenholz, The Growth of Socialism in Germany, 35.
 [^30]: Lee, Algernon. 1911 “Tidings of the Times” Metropolitan. https://catalog.hathitrust.org/Record/006790633, 62 
 [^31]: Belchem, John, and Richard Price, eds. 1994. A Dictionary of Nineteenth-Century World History. London, England: Blackwell. 33-34
-[^28]:
+
 
