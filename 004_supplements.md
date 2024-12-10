@@ -18,5 +18,5 @@ number: 4
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Capitalism-socialism'" %}
 {% include media.html pages=media %}
 
-
-
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Communism-socialism'" %}
+{% include media.html pages=media %}
