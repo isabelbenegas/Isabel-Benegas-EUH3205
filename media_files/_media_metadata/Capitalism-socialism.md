@@ -1,6 +1,6 @@
 ---
 
-name: Capitalism-socialism
+name: Capitalismsocialism
 media_type: video
 
 _title: Capitalism and Socialism: Crash Course World History
