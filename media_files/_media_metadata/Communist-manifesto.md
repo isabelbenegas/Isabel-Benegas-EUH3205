@@ -5,6 +5,7 @@ media_type: image
 
 _title: Manifest der Kommunistischen Partei
 creator: Karl Marx, Friedrich Engels
+description: First edition of The Communist Manifesto in German
 _date: 1848
 source: Wikipedia
 
