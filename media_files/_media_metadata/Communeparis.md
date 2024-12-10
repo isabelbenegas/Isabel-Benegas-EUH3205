@@ -9,7 +9,7 @@ creator: Unknown
 _date: 1871
 source: Wikipedia
 
-_path: /media_files/images/Communeparis.jpg 
+_path: /media_files/images/CommuneParis.jpg 
 layout: media_description
 
 --- 
