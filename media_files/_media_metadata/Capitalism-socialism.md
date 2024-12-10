@@ -1,5 +1,4 @@
 ---
-
 name: Capitalismsocialism
 media_type: video
 
