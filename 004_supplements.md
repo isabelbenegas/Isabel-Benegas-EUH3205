@@ -17,5 +17,6 @@ Place your links here to websites that have information about your topic.
 
 # Supplementary Media Files
 
-Insert videos or images here.
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Capitalism-socialism'" %}
+{% include media.html pages=media %}
 
